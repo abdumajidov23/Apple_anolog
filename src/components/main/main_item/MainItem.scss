@@ -1,0 +1,26 @@
+.main-item-block {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  padding: 10px;
+  flex-direction: column;
+  height: 400px;
+  text-align: center;
+  gap: 7px;
+}
+
+.main-buttons{
+    flex-direction: row;
+    gap: 10px;
+    display: flex;
+}
+
+.main-btn {
+  padding: 7px;
+  border-radius: 20px;
+  justify-content: center;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}

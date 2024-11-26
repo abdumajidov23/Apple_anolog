@@ -1,0 +1,13 @@
+.header-title{
+    padding: 10px 0;
+    font-size: 15px;
+    text-align: center;
+    &__a{
+        color: rgb(30, 141, 252);
+    }
+}
+.IoIosArrowForward{
+    align-items: center;
+    justify-content: end;
+    display: flex;
+}
